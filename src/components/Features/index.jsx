@@ -9,7 +9,7 @@ export default function Features() {
     {
       id: 1,
       title: "Slow & Manual",
-      logo: "/hourglass.png",
+      logo: "/time.png",
       content:
         "Fragmented data from slow, manual soil testing.",
     },
@@ -30,14 +30,14 @@ export default function Features() {
     {
       id: 4,
       title: "Leads to Lower Yield",
-      logo: "/feature-4.svg",
+      logo: "/decrease.png",
       content:
         "Ineffective management reduces yield and harms the environment.",
     },
     {
       id: 5,
       title: "Limited Expert Accessibility",
-      logo: "/feature-5.svg",
+      logo: "/farmer.png",
       content:
         "Farmers often lack timely access to agronomists and soil specialists.",
     },
